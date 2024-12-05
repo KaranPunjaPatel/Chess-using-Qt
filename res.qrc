@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>res/board/whitesquare.svg</file>
+        <file>res/board/blacksquare.svg</file>
+        <file>res/piece/rook-b.svg</file>
+        <file>res/piece/bishop-b.svg</file>
+        <file>res/piece/knight-b.svg</file>
+        <file>res/piece/queen-b.svg</file>
+        <file>res/piece/king-b.svg</file>
+        <file>res/piece/pawn-b.svg</file>
+        <file>res/piece/pawn-w.svg</file>
+        <file>res/piece/rook-w.svg</file>
+        <file>res/piece/bishop-w.svg</file>
+        <file>res/piece/king-w.svg</file>
+        <file>res/piece/knight-w.svg</file>
+        <file>res/piece/queen-w.svg</file>
+        <file>res/spot.svg</file>
+        <file>res/piecePresentSpot.svg</file>
+        <file>res/board/bluesquare.svg</file>
+        <file>res/board/goldensquare.svg</file>
+    </qresource>
+</RCC>

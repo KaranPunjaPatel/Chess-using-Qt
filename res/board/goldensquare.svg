@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+	Tükörsakk táblája
+	Felhasználási feltételek: Nevezd meg! - Így add tovább! (Creative Commons)
+	Uray M. János
+	2014-2017
+-->
+
+<svg
+   width="96"
+   height="96"
+   viewBox="-32 -8 96 96"
+   version="1.1"
+   id="svg68"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <!-- keret -->
+  <defs
+     id="defs3" />
+  <!-- mezők -->
+  <rect
+     fill="#aaaaaa"
+     x="-32"
+     y="-8"
+     width="96"
+     height="96"
+     id="rect31"
+     style="opacity:0.3;fill:#d4aa00" />
+</svg>
