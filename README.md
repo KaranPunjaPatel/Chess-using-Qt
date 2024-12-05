@@ -16,6 +16,14 @@
 
 Multiple users can connect to a server using TCP sockets. Then the server will match the users with each other and whenever an user makes a move the message is passed to server then the server passes the message to the other player acting as a middlemen. This way the users don't the other player and his location.
 
+## Built instructions
+
+<p>
+1. Run two Qt instances of the program  
+<br>2. Run the server.c program separately in terminal using 'gcc server.c -o server.c'
+<br>3. Now can play the game
+</p>
+
 ## Built with
 
 - Qt using C++
